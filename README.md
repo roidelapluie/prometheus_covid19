@@ -15,7 +15,8 @@ $ git clone https://github.com/roidelapluie/prometheus_covid19
 $ cd prometheus_covid19
 ```
 
-2. Clone the data (I do not provide the data)
+2. Clone the data (I do not provide the data). This adapter uses the covid19
+   JHU CSSE data set.
 
 ```shell
 $ git clone https://github.com/CSSEGISandData/COVID-19
