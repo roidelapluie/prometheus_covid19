@@ -39,7 +39,7 @@ remote_read:
     read_recent: true
 ```
 
-Launch prometheus with a big lookback delta:
+Launch prometheus with a big lookback delta, as the data has a 24h granularity:
 
 ```shell
 $ ./prometheus --query.lookback-delta=36h
