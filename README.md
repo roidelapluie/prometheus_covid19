@@ -4,8 +4,8 @@ This is a remote read storage adapter for [Prometheus](https://prometheus.io).
 This is a hack I made to learn about Remote Read in Prometheus and to manipulate
 Covid19 data with PromQL.
 
-Note that those numbers are actual people and everyone can help reducing the
-damages of this disease:
+Note that those numbers are actual people and everyone can help slowing the
+spread of the virus:
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public
 
 ![screenshot](screenshot.png)
