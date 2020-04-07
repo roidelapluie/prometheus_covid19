@@ -58,6 +58,17 @@ At the time of writing, you have access to the following metrics:
 - covid19_deaths_US
 - covid19_recovered_global
 
+## Update the data set
+
+Update the git repo and launch the remote read adapater again. The adapter reads
+the data at startup.
+
+```shell
+$ cd COVID-19
+$ git pull
+$ cd ..
+```
+
 ## About this work
 
 I do not guarantee the quality of this work, it was done quickly and only for
