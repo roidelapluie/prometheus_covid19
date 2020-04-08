@@ -81,4 +81,5 @@ hacking.
 
 Pull requests are accepted.
 
-This work is licensed under Apache-2.0 license.
+This work is licensed under Apache-2.0 license and is partially based on the Prometheus
+remote_read example, by the prometheus authors.
